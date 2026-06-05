@@ -1,0 +1,6 @@
+Risk Area,Potential Impact,Mitigation Strategy
+Weather Bias,Lower winter accuracy,Seasonal retraining
+Peak Hour Bias,Higher peak-hour errors,Dynamic updates
+Transparency,Reduced public trust,Explainable AI
+Data Governance,Privacy concerns,Data anonymization
+Accessibility,Unequal service allocation,Fairness-aware evaluation
